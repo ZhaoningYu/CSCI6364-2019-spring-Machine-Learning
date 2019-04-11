@@ -6,9 +6,9 @@ In this project you will practice the basics of Machine Learning Classification 
 Datasets: The project will explore two datasets, the famous MNIST dataset of very small pictures of handwritten numbers, and an exploration of the Human Activity Recognition dataset. You can access the datasets and code here:
 </p>
 <p>
-Human Activity Recognition Set and Code:
-https://www.kaggle.com/ruslankl/k-means-clustering-pca
-MNIST Set and Code:
-https://www.kaggle.com/sflender/comparing-random-forest-pca-and-knn
+Human Activity Recognition Set and Code: /n
+https://www.kaggle.com/ruslankl/k-means-clustering-pca /n
+MNIST Set and Code: /n
+https://www.kaggle.com/sflender/comparing-random-forest-pca-and-knn /n
 For each, write a very short report on findings.
 </p>
